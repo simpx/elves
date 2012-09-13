@@ -1,5 +1,5 @@
 '''
-Eleves -- Python Threading & Queue for Human
+Eleves -- Python Threading For Human
 '''
 import threading
 import Queue
