@@ -14,9 +14,10 @@ Usage:
     #do something
     print msg
 
+  #elves.Watcher()
   #this will run threads_num threads
   elves.run(threads_num)
-  
+
   for i in range(100):
     elves.put(i)
   elves.join()
